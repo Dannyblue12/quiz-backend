@@ -1,71 +1,84 @@
 {
-  "partial": [
-    {
-      "question": "What is 2 + 2?",
-      "options": ["3", "4", "5", "6"],
-      "answer": "4"
-    },
-    {
-      "question": "What is the capital of France?",
-      "options": ["Berlin", "Madrid", "Paris", "Rome"],
-      "answer": "Paris"
-    },
-    {
-      "question": "What color is the sky?",
-      "options": ["Green", "Blue", "Red", "Yellow"],
-      "answer": "Blue"
-    }
-  ],
-  "complete": [
-    {
-      "question": "What is 10 + 10?",
-      "options": ["15", "20", "25", "30"],
-      "answer": "20"
-    },
-    {
-      "question": "What is the largest planet in our solar system?",
-      "options": ["Earth", "Mars", "Jupiter", "Venus"],
-      "answer": "Jupiter"
-    },
-    {
-      "question": "What is the chemical symbol for water?",
-      "options": ["O2", "H2", "H2O", "OH"],
-      "answer": "H2O"
-    },
-    {
-      "question": "Who wrote 'Romeo and Juliet'?",
-      "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
-      "answer": "William Shakespeare"
-    },
-    {
-      "question": "What is 5 x 6?",
-      "options": ["28", "30", "32", "34"],
-      "answer": "30"
-    },
-    {
-      "question": "What is the capital of Japan?",
-      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
-      "answer": "Tokyo"
-    },
-    {
-      "question": "What is the boiling point of water in Celsius?",
-      "options": ["90", "100", "110", "120"],
-      "answer": "100"
-    },
-    {
-      "question": "What is the smallest prime number?",
-      "options": ["0", "1", "2", "3"],
-      "answer": "2"
-    },
-    {
-      "question": "Who painted the Mona Lisa?",
-      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
-      "answer": "Leonardo da Vinci"
-    },
-    {
-      "question": "What is the square root of 49?",
-      "options": ["6", "7", "8", "9"],
-      "answer": "7"
-    }
-  ]
-    }
+    "partial": [
+        {
+            "id": 1,
+            "question": "What is the capital of France?",
+            "options": ["Paris", "London", "Berlin", "Rome"],
+            "answer": "Paris"
+        },
+        {
+            "id": 2,
+            "question": "What is 2 + 2?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "4"
+        },
+        {
+            "id": 3,
+            "question": "What is the largest planet in our solar system?",
+            "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+            "answer": "Jupiter"
+        }
+    ],
+    "complete": [
+        {
+            "id": 1,
+            "question": "What is the chemical symbol for water?",
+            "options": ["H2O", "O2", "CO2", "NaCl"],
+            "answer": "H2O"
+        },
+        {
+            "id": 2,
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "options": ["William Shakespeare", "Charles Dickens", "J.K. Rowling", "Mark Twain"],
+            "answer": "William Shakespeare"
+        },
+        {
+            "id": 3,
+            "question": "What is the speed of light?",
+            "options": ["299,792 km/s", "300,000 km/s", "150,000 km/s", "1,000,000 km/s"],
+            "answer": "299,792 km/s"
+        },
+        {
+            "id": 4,
+            "question": "What is the main ingredient in sushi?",
+            "options": ["Rice", "Bread", "Pasta", "Noodles"],
+            "answer": "Rice"
+        },
+        {
+            "id": 5,
+            "question": "What year did World War II end?",
+            "options": ["1945", "1939", "1918", "1950"],
+            "answer": "1945"
+        },
+        {
+            "id": 6,
+            "question": "What is the powerhouse of the cell?",
+            "options": ["Mitochondria", "Nucleus", "Ribosome", "Cytoplasm"],
+            "answer": "Mitochondria"
+        },
+        {
+            "id": 7,
+            "question": "What is the tallest mountain in the world?",
+            "options": ["Mount Everest", "K2", "Mount Kilimanjaro", "Denali"],
+            "answer": "Mount Everest"
+        },
+        {
+            "id": 8,
+            "question": "What gas do plants absorb for photosynthesis?",
+            "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+            "answer": "Carbon dioxide"
+        },
+        {
+            "id": 9,
+            "question": "What is the square root of 64?",
+            "options": ["8", "7", "9", "6"],
+            "answer": "8"
+        },
+        {
+            "id": 10,
+            "question": "Who painted the Mona Lisa?",
+            "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+            "answer": "Leonardo da Vinci"
+        }
+    ]
+        }
