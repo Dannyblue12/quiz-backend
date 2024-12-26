@@ -1,0 +1,71 @@
+{
+  "partial": [
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What color is the sky?",
+      "options": ["Green", "Blue", "Red", "Yellow"],
+      "answer": "Blue"
+    }
+  ],
+  "complete": [
+    {
+      "question": "What is 10 + 10?",
+      "options": ["15", "20", "25", "30"],
+      "answer": "20"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["O2", "H2", "H2O", "OH"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is 5 x 6?",
+      "options": ["28", "30", "32", "34"],
+      "answer": "30"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "options": ["90", "100", "110", "120"],
+      "answer": "100"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the square root of 49?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "7"
+    }
+  ]
+    }
