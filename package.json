@@ -1,22 +1,17 @@
 {
   "name": "quiz-backend",
   "version": "1.0.0",
-  "description": "Backend for the quiz application",
+  "description": "Quiz backend for handling API requests.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "postinstall": "npm install depd"
+    "start": "node server.js"
   },
   "dependencies": {
-    "axios": "^1.7.9",
-    "body-parser": "^1.20.3",
-    "convex": "^1.17.3",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "firebase-admin": "^12.7.0",
-    "depd": "^2.0.0"
-  },
-  "author": "Daniel Gora",
-  "license": "MIT"
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "firebase-admin": "^12.7.0"
+  }
 }
